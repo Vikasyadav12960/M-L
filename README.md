@@ -1,2 +1,2 @@
 # YOLO
-Yooloooo0
+Yoolo
