@@ -1,3 +1,7 @@
+
+#OPEN https://chadhuvukondi.netlify.app/
+
+
 # ML Study Guide
 
 A static study site based on the Machine Learning Study Guide deck. Search the curriculum, mark topics complete, or move the slider in the house-price regression lab. Progress is stored in the current browser.
